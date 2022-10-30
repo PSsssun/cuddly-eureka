@@ -1,4 +1,4 @@
-#include "../mylib/other.h"
+#include "../other.h"
 #include <cstdio>
 
 void say_hello(){
