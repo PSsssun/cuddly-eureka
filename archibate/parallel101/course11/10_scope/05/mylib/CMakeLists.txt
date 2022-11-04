@@ -1,0 +1,2 @@
+set(MYVAR ON CACHE BOOL "" FORCE)
+
